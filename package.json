@@ -1,0 +1,24 @@
+{
+  "name": "prg6-eindopdracht",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file=.env --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsNiels99/prog-6-back-24-25.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ItsNiels99/prog-6-back-24-25/issues"
+  },
+  "homepage": "https://github.com/ItsNiels99/prog-6-back-24-25#readme",
+  "description": ""
+}
